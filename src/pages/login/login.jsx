@@ -7,8 +7,8 @@ import {
 } from 'antd'
 
 import logo from './images/logo.png'
-import './login.less'
-const Item = Form.Item
+import './login.less';
+const Item = Form.Item;
 
 /*登陆路由组件
 */
