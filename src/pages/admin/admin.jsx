@@ -4,7 +4,7 @@ import React, {Component} from 'react'
 export default class Admin extends Component {
     render() {
         return (
-            <div>Admin</div>
+            <div>1123dmin hzq1</div>
         )
     }
 }
